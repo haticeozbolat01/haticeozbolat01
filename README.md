@@ -1,3 +1,9 @@
+<p align="center">
+
+  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
+</p>
+
+
 ### Hi, I'm Hatice Özbolat👋
 
 
@@ -7,43 +13,34 @@
 
 - 📝 I regularly write articles on  [Medium](medium.com/@haticeozbolat17)
 
+- ⚡ Fun fact: Loving music,anime,playing sudoku
 
-<br>
+#### Connect with me:
+<br> <br>
+ <a href="https://twitter.com/Hatice71_03">
+  <img align="left" alt="Hatice's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hatice-%C3%B6zbolat/">
+  <img align="left" alt="Hatice's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/haticeozbolat01">
+  <img align="left" alt="Hatice's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://haticeozbolat17.medium.com/">
+  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://www.hackerrank.com/haticeozbolat17">
+  <img align="left" alt=" Hatice's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="linkedin.com/in/hatice-özbolat" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="hatice özbolat" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/haticeozbolat17" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="hatice özbolat" height="30" width="40" /></a>
- <a href="twitter.com/Hatice71_03" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="hatice özbolat" height="30" width="40" /></a>
-  <a href="medium.com/@haticeozbolat17" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="hatice özbolat" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCyUt1xh6aaaOJDL5XUTzPxw" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="hatice özbolat" height="30" width="40" /></a>
- 
-</p>
 
-<br>
+#### Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p 
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-                                                                                                           </a> </p>
+[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
 
-<br>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
