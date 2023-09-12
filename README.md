@@ -17,7 +17,7 @@
 
 #### Connect with me:
 <br> <br>
- <a href="https://twitter.com/Hatice71_03">
+ <a href="https://twitter.com/unrequited_LU">
   <img align="left" alt="Hatice's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hatice-%C3%B6zbolat/">
