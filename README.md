@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on  [Medium](medium.com/@haticeozbolat17)
 
-- ⚡ Fun fact: Loving music,anime,playing sudoku
+- ⚡ Fun fact: Loving music, anime,playing sudoku
 
 #### Connect with me:
 <br> <br>
@@ -60,5 +60,5 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Hatice Özbolat](github.com/haticeozbolat01)
+[Hatice Özbolat](https://github.com/haticeozbolat01)
 
