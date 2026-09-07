@@ -38,6 +38,7 @@
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://images.tpointtech.com/tutorial/flutter/images/flutter-logo.png" alt="flutter" width="100">](https://flutter.dev/)
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
 
