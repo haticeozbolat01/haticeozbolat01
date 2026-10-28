@@ -16,7 +16,7 @@ Computer engineer working with **data, Python and AI**. I build data science pro
 
 <p>
   <a href="https://haticeozbolat.com"><img src="https://img.shields.io/badge/Blog-haticeozbolat.com-C2185B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" /></a>
-  <a href="https://www.linkedin.com/in/hatice-%C3%B6zbolat/"><img src="https://img.shields.io/badge/LinkedIn-Hatice_Özbolat-2B1036?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hatice-ozbolat/"><img src="https://img.shields.io/badge/LinkedIn-Hatice_Özbolat-2B1036?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/haticezbolat"><img src="https://img.shields.io/badge/Kaggle-haticezbolat-2B1036?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://haticeozbolat17.medium.com/"><img src="https://img.shields.io/badge/Medium-Articles-2B1036?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.hackerrank.com/haticeozbolat17"><img src="https://img.shields.io/badge/HackerRank-Profile-2B1036?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
