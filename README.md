@@ -1,63 +1,62 @@
 <p align="center">
-
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
+  <img src="https://github.com/user-attachments/assets/1c307189-9934-4ac5-8198-a9dc68879e61" alt="Hatice Özbolat — Computer Engineer, Data & AI" width="100%" />
 </p>
 
 
-### Hi, I'm Hatice Özbolat👋
 
+### Hi, I'm Hatice 👋
 
-- 🌱 I’m currently learning data science and machine learning.
+Computer engineer working with **data, Python and AI**. I build data science projects, small mobile apps with Flutter, and I write about technology — in Turkish — on my blog.
 
-- 📫 How to reach me: haticeozbolat17@gmail.com
+- 🔭 Currently building **Wordiva**, a vocabulary flashcard app (Flutter) — in closed testing on Google Play
+- 🐍 Running **#30GündePython**, a free 22-lesson Python series for beginners
+- 📊 Next up: an **R programming** series
+- ✍️ Writing at **[haticeozbolat.com](https://haticeozbolat.com)** · Newsletter: *Veri ve Yapay Zeka Günlüğü* on LinkedIn
+- ⚡ Fun fact: music, anime and sudoku keep me sane
 
-- 📝 I regularly write articles on  [Medium](medium.com/@haticeozbolat17)
+<p>
+  <a href="https://haticeozbolat.com"><img src="https://img.shields.io/badge/Blog-haticeozbolat.com-C2185B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/hatice-%C3%B6zbolat/"><img src="https://img.shields.io/badge/LinkedIn-Hatice_Özbolat-2B1036?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/haticezbolat"><img src="https://img.shields.io/badge/Kaggle-haticezbolat-2B1036?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://haticeozbolat17.medium.com/"><img src="https://img.shields.io/badge/Medium-Articles-2B1036?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.hackerrank.com/haticeozbolat17"><img src="https://img.shields.io/badge/HackerRank-Profile-2B1036?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</p>
 
-- ⚡ Fun fact: Loving music, anime,playing sudoku
+---
 
-#### Connect with me:
-<br> <br>
- <a href="https://twitter.com/unrequited_LU">
-  <img align="left" alt="Hatice's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hatice-%C3%B6zbolat/">
-  <img align="left" alt="Hatice's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/haticeozbolat01">
-  <img align="left" alt="Hatice's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://haticeozbolat17.medium.com/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-<a href="https://www.hackerrank.com/haticeozbolat17">
-  <img align="left" alt=" Hatice's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<br><br>
+### 📂 Featured projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| [World Happiness 2023](https://github.com/haticeozbolat01/World_Happiness_2023-_-Data_Science_Project) | Exploratory analysis of what drives happiness scores across countries | Python · pandas · seaborn |
+| [House Prices](https://github.com/haticeozbolat01/House-Prices--Data-Science-Project) | End-to-end regression: cleaning, feature engineering, price prediction | Python · scikit-learn |
+| [Water Quality Analysis](https://github.com/haticeozbolat01/Water-Quality-Analysis) | Predicting water potability with Decision Tree and Random Forest | Python · scikit-learn |
+| [Diabetes Feature Engineering](https://github.com/haticeozbolat01/Diabetes_Feature_Engineering) | Feature engineering and modelling on a diabetes dataset | Python · scikit-learn |
+| [Titanic Diary](https://github.com/haticeozbolat01/Titanic-Diary---Data-Science-Project) | Classic survival prediction, told step by step | Python · Jupyter |
 
-#### Languages and Tools:
+👉 All projects with write-ups: **[haticeozbolat.com/projeler](https://haticeozbolat.com/projeler/)**
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-[<img src="https://images.tpointtech.com/tutorial/flutter/images/flutter-logo.png" alt="flutter" width="100">](https://flutter.dev/)
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
+---
 
+### 🛠️ Languages & tools
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=haticeozbolat01&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="haticeozbolat01" 
-    bg_color=#808080/></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
-<br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haticeozbolat01&layout=compact&hide_border=true&bg_color=2B1036&title_color=F6B17A&text_color=FBF6FA" alt="Top languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haticeozbolat01&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="haticeozbolat01" /></p>
+---
 
-<br>
-
-
-      
-
-[Hatice Özbolat](https://github.com/haticeozbolat01)
-
+<p align="center"><i>Teknolojinin ritmini yakala.</i> · 📬 <a href="https://haticeozbolat.com/iletsim/">Get in touch</a></p>
